@@ -11,12 +11,12 @@ Hoje começamos oficialmente nossos projetos de **código**, e por isso, agora t
 -  [ ] Crie um **fork** deste projeto.
    <details>
       <summary>Esqueceu como se faz?</summary>
-      <img src="./assets/fork.png" alt="Fork a sua própria cópia de nome-do-repo"/>
+      <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Ffork.png?alt=media&token=7030e997-246a-41fe-a75f-2a2ced61e54d" alt="Fork a sua própria cópia de nome-do-repo"/>
    </details>
 -  [ ] Clone sua **PRÓPRIA** versão do repositório
    <details>
       <summary>Esqueceu como se faz?</summary>
-      <img src="./assets/clone-repo.png" alt="Garanta que o repositório é seu-usuário/nome-do-repo e faça o clone"/>
+      <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Fclone-repo.png?alt=media&token=d8b3c101-c6d4-4371-b018-ae4edec7e34c" alt="Garanta que o repositório é seu-usuário/nome-do-repo e faça o clone"/>
    </details>
 -  [ ] Crie uma nova branch: git checkout -b `<turma-nome-sobrenome>`.
    <details>

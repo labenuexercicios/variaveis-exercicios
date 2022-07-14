@@ -32,6 +32,10 @@ Hoje começamos oficialmente nossos projetos de **código**, e por isso, agora t
 -  [ ] Após o momento de feedback e correção, aprove seu Pull Request e faça o merge
 -  [ ] Seu projeto será considerado completo quando a aprovação e o merge com a main acontecerem **em seu próprio repositório**.
 
+### Como eu vou executar os exercícios?
+
+Cada uma das pastas possui um arquivo ```.html```, que está linkado ao arquivo ```.js```que você vai usar para fazer o exercício. O código do exercício deve ser escrito no arquivo ```.js```, e você deve ver o resultado acessando o arquivo ```.html```no seu navegador de internet (sugerimos o Google Chrome), e abrindo a aba de **Console** do DevTools. Para acessar o arquivo, você pode copiar o caminho dele e colar no navegador, ou utilizar a extensão **LiveServer**. Mais detalhes sobre a extensão no material assíncrono.
+
 ### O que você precisa saber e praticar desta aula?
 
 -  [ ] item 1 - Atribuição de dados e ```typeof```
@@ -39,6 +43,7 @@ Hoje começamos oficialmente nossos projetos de **código**, e por isso, agora t
 -  [ ] item 3 - Lógica de atribuição
 
 Cada pasta deste repo possui um README.md com o enunciado do exercício e um template para que você possa começar.
+
 
 ### Informações úteis sobre o assunto
 

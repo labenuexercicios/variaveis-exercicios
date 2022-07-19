@@ -6,3 +6,5 @@ console.log(pergunta2)
 
 let pergunta3 = prompt ("voce está com sono?")
 console.log (pergunta3)
+
+//teste

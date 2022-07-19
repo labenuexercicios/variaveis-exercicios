@@ -13,10 +13,12 @@ const alimentacaoResposta = prompt(alimentacao);
 
 console.log(alimentacao, alimentacaoResposta);
 
+
 const saude = "Você vai ao medico?";
 const saudeResposta = prompt(saude);
 
 console.log(saude, saudeResposta);
+
 
 const tempo = "Será que vai chover?";
 const tempoResposta = prompt(tempo);

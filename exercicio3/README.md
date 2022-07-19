@@ -7,7 +7,7 @@ let a = 10
 let b = 25
 ```
 
-Agora, queremos trocar os valores delas, de forma que `a` passe a ter o valor de `b` e `b` passe a ter o valor de `a`. 
+Agora, queremos trocar os valores delas, de forma que `a` passe a ter o valor de `b` e `b` passe a ter o valor de `a` 
 
 Ou seja, no caso desse exemplo acima, `a` passaria a ser 25 e `b` passaria a ser 10.
 
@@ -38,7 +38,7 @@ Crie a lógica que deve ser inserida no código para que os valores de a e b sej
 <details>
 <summary>💡 Dica 2</summary>
 
->⭐ Vamos supor que você tem dois copos: um copo A que tem suco de laranja e um copo B que tem coca-cola. Como você faria para trocar o conteúdo dos dois?
+>⭐ Vamos supor que você tem dois copos: um copo A que tem suco de laranja e um copo B que tem coca-cola. Como você faria para trocar o conteudo dos dois?
 
 ![](https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/variaveis%2Fcopo3.png?alt=media&token=e4c08185-cba6-495a-bf78-a05d92b34948)
 

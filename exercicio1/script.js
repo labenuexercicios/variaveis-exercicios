@@ -1,14 +1,14 @@
 //**a)** Declare uma variável para armazenar um **nome**, sem atribuir um valor.
 
-//const nome =''
+const nome =''
 
 //**b)** Declare uma variável para armazenar uma **idade**, sem atribuir um valor.
 
-//const idade =''
+const idade =''
 
 //**c)** Imprima na tela o **tipo** dessas variáveis que acabou de criar, usando o comando `typeof`.
 
-//console.log(typeof nome,typeof idade)
+console.log(typeof nome,typeof idade)
 
     // ele retornou apenas o tipo da variavel, sendo ambas string
 

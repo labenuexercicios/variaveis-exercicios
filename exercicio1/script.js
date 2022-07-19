@@ -7,8 +7,8 @@ let nome = prompt("Qual seu nome?")
 let idade = prompt("Qual sua idade?")
 
 
-console.log(typeof nome)
-console.log(typeof idade)
+console.log(typeof nome);
+console.log(typeof idade);
 
 // com a utilização do prompt as variaves são todas do tipo string agora 
 

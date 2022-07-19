@@ -24,3 +24,5 @@ console.log (timepergunta,timeresp)
 console.log (copapergunta,coparesp)
 
 console.log(brasileiraopergunta,brasileiraoresp)
+
+// ACREDITO QUE FIZ CERTO !!

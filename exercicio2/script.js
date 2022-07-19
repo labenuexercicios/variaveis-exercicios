@@ -4,7 +4,7 @@ const respostaA = prompt (perguntaA);
 const perguntaB = "Está chovendo hoje?";
 const respostaB =  prompt(perguntaB);
 
-const perguntaC = "Você tem carro ?";
+const perguntaC = "Você tem carro ?"
 const respostaC = prompt(perguntaC);
 
 

@@ -8,3 +8,6 @@ console.log(typeof nome)
 console.log(typeof idade)
 
 console.log("Ola" ,nome,",", "você tem" ,idade, "anos de idade.")
+
+
+

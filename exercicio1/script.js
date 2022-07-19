@@ -1,6 +1,5 @@
-let nome = ""
-
-let idade = ""
+let nome 
+let idade 
 
 console.log(typeof nome, typeof idade)
 
@@ -8,9 +7,6 @@ console.log(typeof nome, typeof idade)
 
 nome = prompt( "Qual seu nome?" + nome)
 idade = +prompt( "Qual sua idade?" + idade)
-
-
-
 
 console.log('Olá', nome , 'você tem', idade, "anos")
 

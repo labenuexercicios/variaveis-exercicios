@@ -16,7 +16,7 @@ Hoje começamos oficialmente nossos projetos de **código**, e por isso, agora t
 -  [ ] Clone sua **PRÓPRIA** versão do repositório
    <details>
       <summary>Esqueceu como se faz?</summary>
-      <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Fclone-repo.png?alt=media&token=d8b3c101-c6d4-4371-b018-ae4edec7e34c" alt="Garanta que o repositório é seu-usuário/nome-do-repo e faça o clone"/>
+      <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Fclone-repo.png?alt=media&token=d8b3c101-c6d4-4371-bx018-ae4edec7e34c" alt="Garanta que o repositório é seu-usuário/nome-do-repo e faça o clone"/>
    </details>
 -  [ ] Crie uma nova branch: git checkout -b `<turma-nome-sobrenome>`.
    <details>

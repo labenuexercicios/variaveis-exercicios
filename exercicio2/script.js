@@ -25,4 +25,5 @@ const respostaA = prompt(perguntaA)
  
 // D) Altere seu programa, para que a impressão das respostas também tenha as perguntas. Por exemplo:
 //Você está usando uma roupa azul hoje? - SIM
- 
+
+

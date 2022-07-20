@@ -8,3 +8,5 @@ console.log(typeof idade)
 prompt("Qual é o seu nome?")
 prompt("Qual sua idade?")
 //O valor retornado foi string
+console.log(nome, idade)
+console.log("Olá" nome, "você tem" idade, "anos")

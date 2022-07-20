@@ -6,5 +6,7 @@ let respostaBanho = prompt(perguntaBanho)
 let respostaBike = prompt(perguntaBike)
 let respostaDog = prompt(perguntaDog)
 
-console.log(perguntaBanho, respostaBanho, perguntaBike, respostaBike, perguntaDog, respostaDog)
+console.log(perguntaBanho, "-",  respostaBanho)
+console.log(perguntaBike, "-", respostaBike)
+console.log(perguntaDog, "-", respostaDog) 
 

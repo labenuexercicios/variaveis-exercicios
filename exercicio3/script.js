@@ -1,10 +1,10 @@
-let cachorro = 10;
-let gato = 40;
-let animal;
+let a = 10;
+let b = 40;
+let c;
 
-animal = cachorro;
-cachorro = gato;
-gato = animal;
+c = a;
+a = b;
+b = c;
 
-console.log(cachorro);
-console.log(gato);
+console.log(a);
+console.log(b);

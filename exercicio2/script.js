@@ -1,7 +1,11 @@
-let primeiro = prompt("Digite um número");
-let segundo = prompt("Digite outro número");
+let comida = "Você gosta de bolo?";
+let casado = "Você é casado?";
+let filhos = "você tem filhos?";
 
-const primeiroNumber = Number(primeiro);
-const segundoNumber = Number(segundo);
+const respostaA = prompt(comida);
+const respostaB = prompt(casado);
+const respostaC = prompt(filhos);
 
-console.log("A soma dos números é:", primeiroNumber + segundoNumber);
+console.log(comida, respostaA);
+console.log(casado, respostaB);
+console.log(filhos, respostaC);

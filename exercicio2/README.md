@@ -1,4 +1,4 @@
-# Exercício 2
+let# Exercício 2
 Escreva um programa que faça 3 perguntas de Sim ou Não, e guarde cada resposta em uma variável. Por exemplo: "Você está usando uma roupa azul hoje?". Depois, siga os passos:
 
 a) Crie três novas variáveis, contendo as respostas;

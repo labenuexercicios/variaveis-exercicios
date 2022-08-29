@@ -5,7 +5,7 @@ let idade
 //Imprima na tela o *tipo* dessas variáveis que acabou de criar, usando o comando `typeof`.Imprima na tela o *tipo* dessas variáveis que acabou de criar, usando o comando `typeof`.
 console.log(typeof nome, ",", typeof idade)
 //Reflita: por que esse tipo foi impresso? Escreva a resposta em um comentário de código.
-/*foi impreso para variavel *nome o tipo object porque eu atribui o valor null
+/*foi impreso para variavel nome o tipo object porque eu atribui o valor null
 e para varievel idade o tipo foi undefined pois não atribui nenhum valor*/
 //Depois, disso, atualize o código para *perguntar* ao usuário seu nome e sua idade, atribuindo esses dois valores às variáveis que acabou de criar.
 nome = prompt("Qual é seu nome?")

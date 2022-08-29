@@ -13,8 +13,10 @@
 //Já que quero que elas apareçam no console do navegador.
 
 //e)
-let nome = prompt("Qual o seu nome?")
-let idade = prompt("Qual sua idade?")
+const nome = prompt("Qual o seu nome?")
+let idade = Number(prompt("Qual sua idade?"))
+
+console.log(typeof nome, typeof idade)
 
 //f)
 //Notei que as perguntas apareceram na tela e que as respostas foram

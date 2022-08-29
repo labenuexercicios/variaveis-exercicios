@@ -1,0 +1,10 @@
+const ask1 = prompt('você tomou banho hoje?')
+let resp1 = prompt(ask1)
+const ask2 = prompt('você almoçou hoje?')
+let resp2 = prompt(ask2)
+const ask3 = prompt('você bocejou hoje?')
+let resp3 = prompt(ask3)
+
+console.log('você tomou banho hoje?', resp1)
+console.log('você almoçou hoje?', resp2)
+console.log('você bocejou hoje?', resp3)

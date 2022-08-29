@@ -1,3 +1,6 @@
+//let nome =
+//let idade = 
+// vai dar sem valor, pois não um valor atribuido aí dará undefined
 const nome = prompt('Qual o seu nome?')
 
 

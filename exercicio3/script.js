@@ -7,3 +7,4 @@ num2 = vazio;
 
 console.log('o novo valor de A é igual a ', num1)
 console.log('o novo valor de B é igual a ', num2)
+console.log(num1, num2, "respectivamente 'a' e 'b'")

@@ -1,11 +1,11 @@
-let maca = "Você gosta de maçã?"
-let viagem = "Você já viagem de avião?"
-let musica = 'VocÊ sabe tocar algum instrumento?'
+let likeApple = "Você gosta de maçã?"
+let hasTrip = "Você já viagem de avião?"
+let playMusic = 'VocÊ sabe tocar algum instrumento?'
 
-let s1 = prompt(maca)
-let n = prompt(viagem)
-let s2 = prompt(musica)
+let s1 = prompt(likeApple)
+let n = prompt(hasTrip)
+let s2 = prompt(playMusic)
 
-alert(maca + "-" + s1)
-alert(viagem + "-" + n)
-alert(musica + "-" + s2)
+alert(likeApple + "-" + s1)
+alert(hasTrip + "-" + n)
+alert(playMusic + "-" + s2)

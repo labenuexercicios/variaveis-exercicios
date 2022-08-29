@@ -42,3 +42,4 @@ let play
 console.log("vc tem pets?", pets = prompt("vc tem pets?"))
 console.log("vc gosta de futebol?", fut = prompt("vc gosta de futebol?"))
 console.log("vc gosta de video games", play = prompt("vc gosta de video games?"))
+\\

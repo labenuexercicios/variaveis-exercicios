@@ -14,7 +14,6 @@
 //const Resposta3 = prompt(Pergunta3)
 
 
-
 const Pergunta1 = prompt("Você gosta de macarrão?"); 
 const Resposta1 = prompt(`Você gosta de macarrão? ${Pergunta1}`)
 

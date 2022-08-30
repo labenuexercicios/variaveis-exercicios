@@ -23,4 +23,3 @@ Construa um programa, seguindo os seguintes passos:
 ```jsx
 console.log(valor1, valor2)
 ```
-    

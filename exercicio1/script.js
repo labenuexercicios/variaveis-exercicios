@@ -1,3 +1,5 @@
+//Exercício 1
+
 let nome = null
 let idade = null
     console.log(typeof nome)

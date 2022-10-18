@@ -1,3 +1,5 @@
+//Exercício 3
+
 let nome = prompt("Qual o seu nome?")
 let data = prompt("Qual sua data de nascimento? (utilize / para separar)")
 let endereco = prompt("Qual seu endereço?")
@@ -7,7 +9,7 @@ let cnh = prompt("Possui CNH?")
 let quantidadeFilhos = Number(prompt("Quantos filhos possui?"))
 let cargo = prompt("Qual o seu cargo atual?")
 let salario = Number(prompt("Qual seu salário atual?"))
-let comissao = Number(prompt("Recebe comissão? Se sim, informe a porcentagem, caso não, responda com 0."))
+let comissao = prompt("Recebe comissão? Se sim, informe a porcentagem, caso não, responda com 0.")
 let anoAdmissao = Number(prompt("Informe o ano de admissão."))
 
 //Tipos

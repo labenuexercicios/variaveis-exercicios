@@ -1,0 +1,38 @@
+const nomeCompleto = prompt("Digite seu nome completo")
+const dataNascimento = new Date(prompt("Digite sua data de nascimento"))
+const cpf = Number(prompt("Digite seu CPF"))
+let endereco = prompt("Digite seu endereço")
+let escolaridade = prompt("Digite sea escolaridade")
+let temCnh = prompt("Possui CNH?") // dificuldade para receber a resposta
+let filhos = Number(prompt("Numero de filhos"))
+let cargo = prompt("Qual seu cargo atual?")
+let salario = Number(prompt("Digite seu salário"))
+let comissao = Number(prompt("Qual a porcentagem de sua comissão? Caso não receba, digite 0"))
+let admissao = Number(prompt("Informe o ano de admissão"))
+
+
+
+console.log(typeof nomeCompleto)
+console.log(typeof dataNascimento)
+console.log(typeof cpf)
+console.log(typeof endereco)
+console.log(typeof escolaridade)
+console.log(typeof temCnh)
+console.log(typeof filhos)
+console.log(typeof cargo)
+console.log(typeof salario)
+console.log(typeof comissao)
+console.log(typeof admissao)
+
+
+console.log("Nome:", nomeCompleto)
+console.log("Data de nascimento:", dataNascimento)
+console.log("CPF:", cpf)
+console.log("Endereço:", endereco)
+console.log("Escolaridade:", escolaridade)
+console.log("Possui CNH:", temCnh)
+console.log("Quantidade de filhos:", filhos)
+console.log("Cargo:", cargo)
+console.log("Salário:", salario)
+console.log("Porcentagem comissão:", comissao)
+console.log("Data de admissão:", admissao)

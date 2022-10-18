@@ -30,3 +30,4 @@ Você foi contratado para criar o programa de RH, que realiza o cadastro de func
 2) Utilize o casting para a conversão de tipos das variáveis que recebem números.
 3) Imprima no console o tipo de todas as variáveis.
 4) Imprima no console um relatório do funcionário.
+1

@@ -21,5 +21,9 @@ const perg3="Você gosta de trabalhar?"
 const resp1= prompt(perg1)
 const resp2= prompt(perg2)
 const resp3= prompt(perg3)
-console.log(resp1,resp2,resp3)
+
+console.log(perg1, ":", resp1)
+console.log(perg2, ":", resp2)
+console.log(perg3, ":", resp3)
+
 

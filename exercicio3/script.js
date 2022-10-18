@@ -1,7 +1,7 @@
 let fullName = prompt(`Nome completo:`)
-let birthDate = prompt(`Data de nascimento:`) // Verificar como converter para Date
+const BIRTH_DATE = prompt(`Data de nascimento:`) // Verificar como converter para Date
 let address = prompt(`Endereço:`)
-let cpf = Number(prompt(`CPF:`))
+const CPF = Number(prompt(`CPF:`))
 let scholarity = prompt(`Escolaridade:`)
 let cnh = prompt(`Possui CNH?`)
 let children = Number(prompt(`Quantos filhos possui?`))
@@ -17,9 +17,9 @@ let commission = Number(
 console.log(`
   RELATÓRIO DO FUNCIONÁRIO\n
   Nome completo: ${fullName}
-  Data de nascimento: ${birthDate}
+  Data de nascimento: ${BIRTH_DATE}
   Endereço: ${address}
-  CPF: ${cpf}
+  CPF: ${CPF}
   Escolaridade: ${scholarity}
   Possui CNH? ${cnh}
   Quantos filhos possui? ${children}
@@ -29,9 +29,9 @@ console.log(`
   `)
 
 console.log(`O tipo da variável fullName é: ${typeof fullName}`)
-console.log(`O tipo da variável birthDate é: ${typeof birthDate}`)
+console.log(`O tipo da variável BIRTH_DATE é: ${typeof BIRTH_DATE}`)
 console.log(`O tipo da variável address é: ${typeof address}`)
-console.log(`O tipo da variável cpf é: ${typeof cpf}`)
+console.log(`O tipo da variável CPF é: ${typeof CPF}`)
 console.log(`O tipo da variável scholarity é: ${typeof scholarity}`)
 console.log(`O tipo da variável cnh é: ${typeof cnh}`)
 console.log(`O tipo da variável children é: ${typeof children}`)

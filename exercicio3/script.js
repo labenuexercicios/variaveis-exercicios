@@ -1,14 +1,14 @@
 let nome = prompt("Qual é o seu nome completo?")
 let data = Date(prompt("Qual é a sua data de nascimento? (utilize '/' para separar)"))
-let endereco = prompt("Qual é o seu endereço?")
+/let endereco = prompt("Qual é o seu endereço?")
 let cpf = Number(prompt('Qual é o seu CPF?'))
 let escolaridade = prompt("Qual é a sua escolaridade?")
 let cnh = prompt("Possui CNH?")
 let qtdFilhos = Number(prompt("Quantos filhos possui?"))
 let cargo = prompt("Qual seu cargo atual?")
-let salario = Number(prompt("Qual seu salário atual?"))
+let salario = Number(prompt("Qual seu salário atual?")).toFixed(2)
 let comissao = Number(prompt("Recebe comissão? Se sim, informe a porcentagem, caso não, responda com zero."))
-let anoAdmissao = Number(prompt("Informe o ano de admissão."))
+let anoAdmissao = Number(prompt("Informe o ano de admissão.")) 
 
 
 console.log(typeof nome)

@@ -1,0 +1,28 @@
+// let bebeuAgua = prompt("Você bebeu agua hoje?")
+// let almocou = prompt("Almoçou hoje?")
+// let dormiu = prompt("Dormiu bem?")
+
+// console.log(bebeuAgua)
+// console.log(almocou)
+// console.log(dormiu)
+
+// const perguntaA = ("Você bebeu agua")
+// const respostaA = prompt(perguntaA)
+// const perguntaB = ("Almoçou hoje?")
+// const respostaB = prompt(perguntaB)
+// const perguntaC = ("Dormiu bem?")
+// const respostaC = prompt(perguntaC)
+// console.log(respostaA)
+// console.log(respostaB)
+// console.log(respostaC)
+
+const perguntaA = ("Você bebeu agua")
+const respostaA = prompt(perguntaA)
+const perguntaB = ("Almoçou hoje?")
+const respostaB = prompt(perguntaB)
+const perguntaC = ("Dormiu bem?")
+const respostaC = prompt(perguntaC)
+console.log(perguntaA,"-",respostaA)
+console.log(perguntaB,"-",respostaB)
+console.log(perguntaC,"-",respostaC)
+

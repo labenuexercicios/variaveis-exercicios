@@ -1,3 +1,5 @@
+
+
 let nome 
 let idade 
 
@@ -23,3 +25,4 @@ console.log("idade tipo->",typeof idade)
 */
 
 console.log(`Olá ${nome} você tem ${idade} anos`)
+

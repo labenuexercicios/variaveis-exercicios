@@ -21,3 +21,5 @@ console.log("idade tipo->",typeof idade)
    uma verificação dos dados digitados se 
    faz necessária.
 */
+
+console.log(`Olá ${nome} você tem ${idade} anos`)

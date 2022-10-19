@@ -4,8 +4,8 @@ let fullName
 let age
 
 console.log(`
-  O tipo da variável "fullName" é: ${typeof fullName}.\n 
-  O tipo da variável "age" é: ${typeof age}.
+    O tipo da variável "fullName" é: ${typeof fullName}.\n 
+    O tipo da variável "age" é: ${typeof age}.
   `)
 
 /* 
@@ -23,8 +23,8 @@ fullName = prompt('Qual é o seu nome?')
 age = prompt('Qual é a sua idade?')
 
 console.log(`
-  O tipo da variável "fullName" é: ${typeof fullName}.\n 
-  O tipo da variável "age" é: ${typeof age}.
+    O tipo da variável "fullName" é: ${typeof fullName}.\n 
+    O tipo da variável "age" é: ${typeof age}.
   `)
 
 /* 

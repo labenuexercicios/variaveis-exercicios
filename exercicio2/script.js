@@ -2,7 +2,7 @@
 
 let a=25
 let b=10
-let c=0 // so consegui realizar depois de colocar c=0
+let c // so consegui realizar depois de colocar c=0
 
 c=a
 a=b

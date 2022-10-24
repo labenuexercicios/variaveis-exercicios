@@ -13,7 +13,7 @@ Construa um programa, seguindo os seguintes passos:
 
 **e)** Depois, disso, atualize o código para **perguntar** ao usuário seu nome e sua idade, atribuindo esses dois valores às variáveis que acabou de criar.
     
-
+ 
 >💡Se você receber um erro de código nessa etapa, reflita sobre o tipo de declaração que utilizou.
     
 

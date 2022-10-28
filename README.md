@@ -1,4 +1,4 @@
-# A007 - Variáveis e tipos primitivos
+# Variáveis e tipos primitivos - Exercício
 
 ## Introdução
 

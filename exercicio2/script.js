@@ -1,9 +1,9 @@
-var a = 10
-var b = 25
+let a = 10
+let b = 25
+let c;
 
-
-console.log("O novo valor de a é",a)
-console.log("O novo valor de b é",b)
-
+c = a // guardamoso valor de a em c
+a = b // atribuimos o valor de b em a 
+b = c // b recebe o valor previamente armazenado
 
 console.log(a,b)

@@ -1,5 +1,5 @@
-const seuNome = "Julia"
-let suaIdade = 29
+const seuNome =""
+let suaIdade 
 console.log(seuNome)
 console.log(suaIdade)
 console.log(typeof seuNome,suaIdade)

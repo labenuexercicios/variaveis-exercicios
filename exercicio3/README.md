@@ -1,9 +1,9 @@
 # Exercício 3
 
-Você foi contratado para criar o programa de RH, que realiza o cadastro de funcionários e armazene suas respostas. 
+Você foi contratade para criar um programa de RH que **realiza o cadastro de pessoas colaboradoras** e **armazena suas respostas**. 
 
 
-1) Este programa deve perguntar ao usuário.
+1) Este programa deve perguntar à pessoa colaboradora:
 
    a) Nome completo
    
@@ -17,7 +17,7 @@ Você foi contratado para criar o programa de RH, que realiza o cadastro de func
    
    f) Possui CHN?
    
-   g) Quantos filhos possui?
+   g) Quantos filhes possui?
    
    h) Cargo atual
    
@@ -27,6 +27,6 @@ Você foi contratado para criar o programa de RH, que realiza o cadastro de func
    
    k) Informe o ano de admissão
 
-2) Utilize o casting para a conversão de tipos das variáveis que recebem números.
+2) Utilize o **casting** para a conversão de tipos das variáveis que recebem números.
 3) Imprima no console o tipo de todas as variáveis.
-4) Imprima no console um relatório do funcionário.
+4) Imprima no console um relatório da pessoa colaboradora.

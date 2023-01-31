@@ -11,7 +11,7 @@ console.log ('O tipo da variável idade é:', typeof idade)
 // O tipo das variáveis são 'undefined' pois não inserimos nenhum valor nelas.
 
 nome =  prompt('Digite o seu nome:')
-idade = prompt('Digite a sua idade:')
+idade = Number(prompt('Digite a sua idade:'))
 
 console.log ('O tipo da variável nome é:', typeof nome)
 console.log ('O tipo da variável idade é:', typeof idade)

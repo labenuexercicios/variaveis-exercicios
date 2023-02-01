@@ -26,3 +26,4 @@ ${touca} - ${respostaA}
 ${touca} - ${respostaB}
 ${touca} - ${respostaC}
 `)
+

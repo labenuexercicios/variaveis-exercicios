@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "exercicio1",
+			"path": "."
+		},
+		{
+			"name": "exercicio2",
+			"path": "../exercicio2"
+		},
+		{
+			"name": "exercicio3",
+			"path": "../exercicio3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercicio3"
+	}
+}

@@ -14,36 +14,63 @@ let salario = Number(prompt('Informe seu salário:'))
 let comissao = Number(prompt('Recebe comissão? Caso sim, informe a porcentagem. Caso não, informe "0":'))
 const admissao = Number(prompt('Informe o ano de admissão:'))
 
-console.log ('')
-console.log ('O tipo da variável nome é:', typeof nome)
-console.log ('O tipo da variável nascimento é:', typeof nascimento)
-console.log ('O tipo da variável endereço é:', typeof endereço)
-console.log ('O tipo da variável cpf é:', typeof cpf)
-console.log ('O tipo da variável escolaridade é:', typeof escolaridade)
-console.log ('O tipo da variável cnh é:', typeof cnh)
-console.log ('O tipo da variável filhos é:', typeof filhos)
-console.log ('O tipo da variável cargo é:', typeof cargo)
-console.log ('O tipo da variável salario é:', typeof salario)
-console.log ('O tipo da variável comissao é:', typeof comissao)
-console.log ('O tipo da variável admissao é:', typeof admissao)
+let apoio
 
 console.log ('')
-console.log ('Segue abaixo os dados informados')
+console.log ('O tipo da variável nome é:', typeof nome,
+'\nO tipo da variável nascimento é:', typeof nascimento,
+'\nO tipo da variável endereço é:', typeof endereço,
+'\nO tipo da variável cpf é:', typeof cpf,
+'\nO tipo da variável escolaridade é:', typeof escolaridade,
+'\nO tipo da variável cnh é:', typeof cnh,
+'\nO tipo da variável filhos é:', typeof filhos,
+'\nO tipo da variável cargo é:', typeof cargo,
+'\nO tipo da variável salario é:', typeof salario,
+'\nO tipo da variável comissao é:', typeof comissao,
+'\nO tipo da variável admissao é:', typeof admissao)
 
-console.log ('Nome:', nome)
-console.log ('Nascimento:', nascimento)
-console.log ('Endereço:', endereço)
-console.log ('CPF:', cpf)
-console.log ('Escolaridade:', escolaridade)
+// console.log ('O tipo da variável nome é:', typeof nome)
+// console.log ('O tipo da variável nascimento é:', typeof nascimento)
+// console.log ('O tipo da variável endereço é:', typeof endereço)
+// console.log ('O tipo da variável cpf é:', typeof cpf)
+// console.log ('O tipo da variável escolaridade é:', typeof escolaridade)
+// console.log ('O tipo da variável cnh é:', typeof cnh)
+// console.log ('O tipo da variável filhos é:', typeof filhos)
+// console.log ('O tipo da variável cargo é:', typeof cargo)
+// console.log ('O tipo da variável salario é:', typeof salario)
+// console.log ('O tipo da variável comissao é:', typeof comissao)
+// console.log ('O tipo da variável admissao é:', typeof admissao)
+
+console.log ('')
 
 if (cnh == true) {
-    console.log ('Possui CNH? Sim')    
+    apoio = 'Possui CNH? Sim'
 } else {
-    console.log ('Possui CNH? Não')
+    apoio = 'Possui CNH? Não'
 }
 
-console.log ('Quantidade de filhos:', filhos)
-console.log ('Cargo atual:', cargo)
-console.log ('Salário: R$', salario)
-console.log ('Comissão:', comissao, '%')
-console.log ('Ano de admissão:', admissao)
+console.log ('Segue abaixo os dados informados:')
+
+console.log ('Nome:', nome,
+'\nNascimento:', nascimento,
+'\nEndereço:', endereço,
+'\nCPF:', cpf,
+'\nEscolaridade:', escolaridade,
+'\n' + apoio,
+'\nQuantidade de filhos:', filhos,
+'\nCargo atual:', cargo,
+'\nSalário: R$', salario,
+'\nComissão:', comissao, '%',
+'\nAno de admissão:', admissao)
+
+// console.log ('Nome:', nome)
+// console.log ('Nascimento:', nascimento)
+// console.log ('Endereço:', endereço)
+// console.log ('CPF:', cpf)
+// console.log ('Escolaridade:', escolaridade)
+// console.log (apoio)
+// console.log ('Quantidade de filhos:', filhos)
+// console.log ('Cargo atual:', cargo)
+// console.log ('Salário: R$', salario)
+// console.log ('Comissão:', comissao, '%')
+// console.log ('Ano de admissão:', admissao)

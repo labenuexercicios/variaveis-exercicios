@@ -41,9 +41,9 @@ Os tipos das variáveis se tornaram strings, pois é o que o prompt retorna
 
 // a)
 
-//let a = prompt('Qual o seu time?')
-//let b = prompt('Que time é teu?')
-//let c = prompt('fala tu?')
+let a = prompt('Qual o seu time?')
+let b = prompt('Que time é teu?')
+let c = prompt('fala tu?')
 
 // b)
 
@@ -57,9 +57,9 @@ let z = 'Fala tu?'
 
 // d)
 
-let a = prompt(x)
-let b = prompt(y)
-let c = prompt(z)
+a = prompt(x)
+b = prompt(y)
+c = prompt(z)
 
 //console.log(a, b, c)
 

@@ -1,10 +1,9 @@
 let a = 10
 let b = 25
+console.log("Valor original: A:",a," B:",b)
 
-let ab = b
-// armazena valor original de a
-let ba = a
-//armazena valor original de b
+let c = a  //armazenar em um variavel
+a = b // atribuir valor de a --> b
+b = c // atribuir valor de b --> a
 
-console.log("Valores Originais. A=",a," B=",b)
-console.log("Valores Invertidos. A=",ab," B=",ba)
+console.log("Valor original: A:",a," B:",b)

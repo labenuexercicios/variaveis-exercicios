@@ -1,6 +1,6 @@
 # Exercício 3
 
-Você foi contratado para criar um programa de RH que **realiza o cadastro de pessoas colaboradoras** e **armazena suas respostas**. 
+Você foi contratade para criar um programa de RH que **realiza o cadastro de pessoas colaboradoras** e **armazena suas respostas**. 
 
 
 1) Este programa deve perguntar à pessoa colaboradora:
@@ -17,7 +17,7 @@ Você foi contratado para criar um programa de RH que **realiza o cadastro de pe
    
    f) Possui CHN?
    
-   g) Quantos filhos possui?
+   g) Quantos filhes possui?
    
    h) Cargo atual
    

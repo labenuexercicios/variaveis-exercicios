@@ -21,10 +21,14 @@ console.log("Olá "+nome+", você tem "+idade+" anos");
 
 // Parte 2
 
-let temPet = prompt("Você têm pet? Por favor, responda apenas SIM ou NAO");
-let viajeFora = prompt("Você já viajou fora do Brasil? Por favor, responda apenas SIM ou NAO");
-let dormeBem = prompt("Você dorme bem? Por favor, responda apenas SIM ou NAO");
+let perguntaA = "Você têm pet?";
+let temPet = prompt(perguntaA);
+let perguntaB = "Você já viajou fora do Brasil?";
+let viajeFora = prompt(perguntaB);
+let perguntaC = "Você dorme bem?";
+let dormeBem = prompt(perguntaC);
 
-console.log("Você têm pet? - "+temPet);
-console.log("Você já viajou fora do Brasil? - "+viajeFora);
-console.log("Você dorme bem? - "+dormeBem);
+
+console.log(`${perguntaA} - ${temPet}`);
+console.log(`${perguntaB} - ${viajeFora}`);
+console.log(`${perguntaC} - ${dormeBem}`);

@@ -14,7 +14,7 @@ let meia = prompt("Voce possui meia furada?")
 let comida = prompt("Voce gosta de lasanha?")
 
 
-let respostaA = prompt(touca, meia, comida)
+let resposta = prompt(touca, meia, comida)
 
 let respostaA = prompt(touca)
 let respostaB = prompt(meia)

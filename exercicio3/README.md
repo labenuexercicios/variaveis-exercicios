@@ -23,7 +23,7 @@ Você foi contratade para criar um programa de RH que **realiza o cadastro de pe
    
    i) Salário
    
-   j) Recebe comissão? Se sim, informe a porcentagem, caso não, responda com zero
+   j) Recebe comissão? Se sim, aperte em confirme, caso não, clique em cancel
    
    k) Informe o ano de admissão
 

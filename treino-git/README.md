@@ -1,4 +1,4 @@
-##Prática diária de Git e GitHub
+## Prática diária de Git e GitHub
 
 O Git e o GitHub são essenciais no desenvolvimento web, permitindo o controle de versões, colaboração eficiente e gerenciamento de projetos. Estas ferramentas facilitam a colaboração quando trabalhamos em equipe, o rastreamento de mudanças e o compartilhamento de código, resultando em um **desenvolvimento** mais **organizado** e **produtivo**.
 

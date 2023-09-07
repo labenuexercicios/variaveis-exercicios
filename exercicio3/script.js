@@ -1,0 +1,40 @@
+// 2 recebem numeros Nascimento, CPF, filhos, salario, anoDeAdmissao
+
+let nome = prompt (" Informe seu nome completo?")
+let dataDeNascimento = Number(prompt (" Data de nascimento?"))
+let endereço = prompt ("Qual seu Eendereço?")
+let cpf = Number(prompt ("Qual seu CPF?"))
+let escolaridade = prompt ("Qual seu nivel de escolaridade?")
+let possuiCnh = prompt ("Você possui CNH?")
+let possuiFilhes = Number(prompt ("Quantos filhes possui?"))
+let cargoAtual = prompt ("Qual seu cargo atual?")
+let salario = Number(prompt ("Qual seu salário?"))
+let comissão = prompt ("Recebe comissão? se sim aperte em confirme, caso não, clique em cancel")
+let anoDeAdmissão = Number(prompt("Informe o seu ano de admissão"))
+
+
+//3
+console.log(typeof nome)
+console.log(typeof dataDeNascimento)
+console.log(typeof endereço)
+console.log(typeof cpf)
+console.log(typeof escolaridade)
+console.log(typeof possuiCnh)
+console.log(typeof possuiFilhes)
+console.log(typeof cargoAtual)
+console.log(typeof salario)
+console.log(typeof comissão)
+console.log(typeof anoDeAdmissão)
+
+//4
+console.log("Informe seu nome nompleto?", nome)
+console.log("Data de nascimento?", dataDeNascimento)
+console.log("Qual seu Eendereço?", endereço)
+console.log("Qual seu CPF?", cpf)
+console.log("Qual seu nivel de escolaridade?", escolaridade)
+console.log("Você possui CNH?", possuiCnh)
+console.log("Quantos filhes possui?", possuiFilhes)
+console.log("Qual seu cargo atual?", cargoAtual)
+console.log("Qual seu salário?", salario)
+console.log("Recebe comissão? se sim aperte em confirme, caso não, clique em cancel", comissão)
+console.log("Informe o seu ano de admissão", anoDeAdmissão)
